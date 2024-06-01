@@ -1,0 +1,21 @@
+SHOPS,,,,,,,,,,
+,,,,,,,,,,
+"PK(unique,not null)",,,,,,,,,,
+id,name,no_of_items,category,no_of_emp,owner_name,address,mobile_no,sales,revenue,is_active
+1,rajkamal,100,retail,20,raju bhai,rajkamal chowk,8080,100000,20000,TRUE
+2,rajkamal,100,retail,20,raju bhai,rajkamal chowk,8080,100000,20000,TRUE
+6,Sweet Delight,106,Amit Verma,45,Amit Verma,"12, Wardha Road, Nagpur",98765,55000,11000,TRUE
+9,Sweet Sensations,109,Neha Gupta,39,Neha Gupta,"77, Civil Lines, Nagpur",65432,78000,20000,TRUE
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Shops_items,,,,,,,,,,
+"PK(unique,not null)",,,,,,,,,,
+id,name,price,stock_qty,plucked_date,exipre_within,shop_id,,,,
+1,onion,30,40,2014-30-06,4,1,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
